@@ -8,6 +8,8 @@
 
 [阅读公开版 PDF](project-overview.pdf) · [下载可编辑 PPT](project-overview.pptx)
 
+[查看云实训判题演示｜已有镜像、环境模板与步骤检查](cloud-lab-demo.md)
+
 ## 首先了解三个特色
 
 1. **AI 辅助实训创作**：指导书和步骤检查脚本可分别形成草稿，教师补齐步骤绑定和判据后采用。
