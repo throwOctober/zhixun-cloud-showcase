@@ -1,10 +1,10 @@
-# 智训云平台｜以环境编排与执行判据驱动教学实训
+# 智训云平台｜在线教学、教学管理与云实训
 
 > **实验环境可编排，操作成果可检查，学习进度有依据。**
 
-智训云将课程任务、实验环境与操作判据连接起来。版本化模板描述环境与访问方式，平台管理环境的创建和回收；步骤检查在学习者的运行环境内执行，根据结果汇总实训与课时进度。课程建设侧提供分步 AI 生成、教师确认和课包校验，让教学内容与实际动手过程都有明确的执行依据。
+智训云面向高校、职业院校和培训机构，连接课程管理、课堂活动、作业成绩、学习进度、情景对话与在线实训。其差异化能力是**版本化环境编排与执行结果驱动的步骤检查**：由模板创建网页或终端实验环境，依据操作判据汇总进度，并管理环境回收。课程建设侧提供分步 AI 文档课包生产、教师确认和结构校验。
 
-*Hands-on lab platform with versioned lab environment orchestration, executable step checks and progress derived from verified results.*
+*Learning management system (LMS) and hands-on lab platform for online learning, vocational education, assignments, gradebooks, lab orchestration and executable step checks.*
 
 [阅读公开版 PDF](project-overview.pdf) · [下载可编辑 PPT](project-overview.pptx)
 
@@ -28,6 +28,25 @@
 版本化模板 → 参数与资源准入 → 创建学习者环境 → 环境内执行步骤检查 → 聚合实训与课时结果 → 回收环境
 
 这里的自动检查依赖已配置的环境、判据和运行条件；“暂不能判定”保留为待处理状态。AI 课包生成与导入当前支持文档课时，实验环境和视频等资源按各自流程配置。
+
+## 能完成哪些工作
+
+| 工作场景 | 展示的能力 | 相关技术与术语 |
+| --- | --- | --- |
+| 在线教学与课程管理 | 组织章节课时、课程资料、学习任务、签到和课堂测验。 | LMS · Course management · Online learning |
+| 作业评阅与成绩管理 | 作业提交、按类型处理、教师复核评分，并发布课程结果。 | Assignment · Assessment · Gradebook |
+| 云实训与实验教学 | 以模板组织网页或终端实践，执行步骤检查，汇总实训与课时进度，管理资源回收。 | Hands-on labs · Lab orchestration · Progress tracking |
+| AI 教学辅助 | 文档课包、题目建议、评分草稿与文字问答，确认和复核后采用。 | AI-assisted teaching · Course authoring |
+| 情景对话训练 | 学生提交文字回应并回顾参考评价，教师可追加教学审阅。 | Scenario-based learning |
+| 职业教育与机构培训 | 用于本科混合教学、高职与中职技能实训、培训机构与企业培训等场景的功能展示。 | Vocational education · Blended learning · Enterprise training |
+
+在线教学、实训执行与机构管理可以按场景组合；材料中的适用场景不代表已取得某机构的实施或教学成效。
+
+## 按需求阅读公开资料
+
+- **环境编排与步骤检查**：PDF 第1–3页、第9–10页，查看任务如何形成可解释的检查结果。
+- **课程、课堂、作业与学习记录**：PDF 第4–18页，了解教学、学习与管理端的功能全貌。
+- **AI 文档课包生产**：PDF 第10页，查看分段确认与课包校验机制。
 
 ## 适合谁阅读
 
